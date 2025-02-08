@@ -23,7 +23,7 @@ const Player = ({player}) => {
            </div>
            <div className="flex justify-between items-center">
             <p className="text-base text-[#131313] font-semibold">Price: $ {price}</p>
-            <button className="text-[12px] lg:text-[14px] px-[16px] py-[9px] border-2 bg-blue-100 border-blue-500 hover:bg-blue-500 hover:text-white rounded-3xl" type="button">Choose Player</button>
+            <button className="text-[12px] lg:text-[14px] px-[16px] py-[9px] border-2 bg-blue-100 border-blue-500 hover:bg-blue-500 hover:text-white rounded-3xl transition-all ease-in-out" type="button">Choose Player</button>
            </div>
            </div>
            </div>
