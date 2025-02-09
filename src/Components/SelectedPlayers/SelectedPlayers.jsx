@@ -16,6 +16,9 @@ const SelectedPlayers = ({ selectedHandel, setSelected, selectPlayers, deleteHan
                    selectPlayers.map(playerSelected => <PlayerSelect key={playerSelected.id} playerSelected={playerSelected} deleteHandel={deleteHandel}></PlayerSelect>) 
                 }
             </div>
+            <div>
+                <button onClick={() => setSelected(false)} className="py-[14px] px-[30px] rounded-2xl text-white hover:border-blue-500  hover:text-black bg-blue-500 text-base font-normal cursor-pointer" type="button">Available</button>
+            </div>  
         </div>
     );
 };
