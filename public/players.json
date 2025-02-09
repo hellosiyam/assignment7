@@ -7,7 +7,7 @@
     "club": "Barcelona",
     "position": "Forward",
     "footed": "Left",
-    "price": 100000000,
+    "price": 100000,
     "img": "https://i.ibb.co.com/cRXhvxp/Messi-1.jpg",
     "avatar": "https://i.ibb.co.com/cRXhvxp/Messi-1.jpg",
     "flag": "https://i.ibb.co.com/9mPqfpNn/argentina.png"
@@ -19,7 +19,7 @@
     "club": "Real Madrid",
     "position": "Forward",
     "footed": "Right",
-    "price": 90000000,
+    "price": 90000,
     "img": "https://i.ibb.co.com/cXr3wZHB/Cr7.jpg",
     "avatar": "https://i.ibb.co.com/cXr3wZHB/Cr7.jpg",
     "flag": "https://i.ibb.co.com/C5W365rS/flag.png"
@@ -31,7 +31,7 @@
     "club": "Barcelona",
     "position": "Forward",
     "footed": "Right",
-    "price": 110000000,
+    "price": 110000,
     "img": "https://i.ibb.co.com/rRBQKv64/Neymar.webp",
     "avatar": "https://i.ibb.co.com/rRBQKv64/Neymar.webp",
     "flag": "https://i.ibb.co.com/b552H3Rx/brazil.png"
@@ -43,7 +43,7 @@
       "club": "Manchester City",
       "position": "Forward",
       "footed": "Left",
-      "price": 180000000,
+      "price": 180000,
       "img": "https://i.ibb.co.com/hxSjt5dV/ERLING-HAALAND.jpg",
       "avatar": "https://i.ibb.co.com/hxSjt5dV/ERLING-HAALAND.jpg",
       "flag": "https://i.ibb.co.com/Ldy3ktn5/norway.png"
@@ -55,7 +55,7 @@
       "club": "Real Madrid",
       "position": "Forward",
       "footed": "Right",
-      "price": 200000000,
+      "price": 200000,
       "img": "https://i.ibb.co.com/qYgQShbJ/kylian-mbappe.jpg",
       "avatar": "https://i.ibb.co.com/qYgQShbJ/kylian-mbappe.jpg",
       "flag": "https://i.ibb.co.com/d4Qjf9Gy/france.png"
@@ -67,7 +67,7 @@
       "club": "Manchester City",
       "position": "Midfielder",
       "footed": "Right",
-      "price": 150000000,
+      "price": 150000,
       "img": "https://i.ibb.co.com/V0KGKZrZ/kevin-de-bruyne.webp",
       "avatar": "https://i.ibb.co.com/V0KGKZrZ/kevin-de-bruyne.webp",
       "flag": "https://i.ibb.co.com/zhcQsXjC/belgium.png"
@@ -79,7 +79,7 @@
     "club": "Liverpool",
     "position": "Forward",
     "footed": "Left",
-    "price": 130000000,
+    "price": 130000,
     "img": "https://i.ibb.co.com/RTymB1wb/Mohamed-Salah-celebrates.jpg",
     "avatar": "https://i.ibb.co.com/RTymB1wb/Mohamed-Salah-celebrates.jpg",
     "flag": "https://i.ibb.co.com/PsZWvsq3/egypt.png"
@@ -91,7 +91,7 @@
       "club": "Bayern Munich",
       "position": "Goalkeeper",
       "footed": "Right",
-      "price": 50000000,
+      "price": 50000,
       "img": "https://i.ibb.co.com/wZWX5zH6/Manuel-Neuer.jpg",
       "avatar": "https://i.ibb.co.com/wZWX5zH6/Manuel-Neuer.jpg",
       "flag": "https://i.ibb.co.com/k6VwFJDx/germany.png"
@@ -103,7 +103,7 @@
     "club": "Real Madrid",
     "position": "Midfielder",
     "footed": "Right",
-    "price": 120000000,
+    "price": 120000,
     "img": "https://i.ibb.co.com/mCjC6dQb/Bellingham.webp",
     "avatar": "https://i.ibb.co.com/mCjC6dQb/Bellingham.webp",
     "flag": "https://i.ibb.co.com/7tZgzxyq/england.png"
@@ -115,7 +115,7 @@
     "club": "Real Madrid",
     "position": "Forward",
     "footed": "Right",
-    "price": 140000000,
+    "price": 140000,
     "img": "https://i.ibb.co.com/7d6tqWS9/01jfjdd3wnb9k0yzv8xg.webp",
     "avatar": "https://i.ibb.co.com/7d6tqWS9/01jfjdd3wnb9k0yzv8xg.webp",
     "flag": "https://i.ibb.co.com/b552H3Rx/brazil.png"
@@ -127,7 +127,7 @@
       "club": "FC Barcelona",
       "position": "Forward",
       "footed": "Right",
-      "price": 120000000,
+      "price": 120000,
       "img": "https://i.ibb.co.com/TMFxj0Rj/Robert-Lewandowski.webp",
       "avatar": "https://i.ibb.co.com/TMFxj0Rj/Robert-Lewandowski.webp",
       "flag": "https://i.ibb.co.com/7dhLvW4r/poland.png"
@@ -139,7 +139,7 @@
     "club": "Manchester City",
     "position": "Midfielder",
     "footed": "Right",
-    "price": 90000000,
+    "price": 90000,
     "img": "https://i.ibb.co.com/rR21wCNq/Rodri.jpg",
     "avatar": "https://i.ibb.co.com/rR21wCNq/Rodri.jpg",
     "flag": "https://i.ibb.co.com/Vc4fLYZy/Spain.png"
@@ -151,7 +151,7 @@
       "club": "Liverpool",
       "position": "Defender",
       "footed": "Right",
-      "price": 90000000,
+      "price": 90000,
       "img": "https://i.ibb.co.com/MzktwGq/alexander-arnold.jpg",
       "avatar": "https://i.ibb.co.com/MzktwGq/alexander-arnold.jpg",
       "flag": "https://i.ibb.co.com/7tZgzxyq/england.png"
@@ -163,7 +163,7 @@
     "club": "Inter Milan",
     "position": "Forward",
     "footed": "Right",
-    "price": 105000000,
+    "price": 105000,
     "img": "https://i.ibb.co.com/8D7JC6VL/Lautaro.webp",
     "avatar": "https://i.ibb.co.com/8D7JC6VL/Lautaro.webp",
     "flag": "https://i.ibb.co.com/9mPqfpNn/argentina.png"
@@ -175,7 +175,7 @@
       "club": "Atletico Madrid",
       "position": "Forward",
       "footed": "Left",
-      "price": 80000000,
+      "price": 80000,
       "img": "https://i.ibb.co.com/VYVTc332/Antoine-Griezmann.jpg",
       "avatar": "https://i.ibb.co.com/VYVTc332/Antoine-Griezmann.jpg",
       "flag": "https://i.ibb.co.com/d4Qjf9Gy/france.png"
@@ -187,7 +187,7 @@
       "club": "Manchester City",
       "position": "Midfielder",
       "footed": "Left",
-      "price": 110000000,
+      "price": 110000,
       "img": "https://i.ibb.co.com/BHCC50KP/Phil-Foden.webp",
       "avatar": "https://i.ibb.co.com/BHCC50KP/Phil-Foden.webp",
       "flag": "https://i.ibb.co.com/7tZgzxyq/england.png"
@@ -199,7 +199,7 @@
       "club": "Real Madrid",
       "position": "Defender",
       "footed": "Right",
-      "price": 70000000,
+      "price": 70000,
       "img": "https://i.ibb.co.com/G38NkD0M/Antonio-R-diger.webp",
       "avatar": "https://i.ibb.co.com/G38NkD0M/Antonio-R-diger.webp",
       "flag": "https://i.ibb.co.com/k6VwFJDx/germany.png"
@@ -211,7 +211,7 @@
       "club": "Arsenal",
       "position": "Midfielder",
       "footed": "Right",
-      "price": 120000000,
+      "price": 120000,
       "img": "https://i.ibb.co.com/1t1nVDzC/Declan-Rice.webp",
       "avatar": "https://i.ibb.co.com/1t1nVDzC/Declan-Rice.webp",
       "flag": "https://i.ibb.co.com/7tZgzxyq/england.png"
@@ -223,7 +223,7 @@
       "club": "Liverpool",
       "position": "Goalkeeper",
       "footed": "Right",
-      "price": 80000000,
+      "price": 80000,
       "img": "https://i.ibb.co.com/Psb3MpTM/Alisson-Becker.webp",
       "avatar": "https://i.ibb.co.com/Psb3MpTM/Alisson-Becker.webp",
       "flag": "https://i.ibb.co.com/b552H3Rx/brazil.png"
@@ -235,7 +235,7 @@
       "club": "Real Madrid",
       "position": "Midfielder",
       "footed": "Right",
-      "price": 75000000,
+      "price": 75000,
       "img": "https://i.ibb.co.com/fGQKXmv0/Luka-Modri.webp",
       "avatar": "https://i.ibb.co.com/fGQKXmv0/Luka-Modri.webp",
       "flag": "https://i.ibb.co.com/vxMyJJVQ/croatia.png"
@@ -247,7 +247,7 @@
       "club": "Benfica",
       "position": "Midfielder",
       "footed": "Left",
-      "price": 50000000,
+      "price": 50000,
       "img": "https://i.ibb.co.com/k6HYJjqD/Di-maria.webp",
       "avatar": "https://i.ibb.co.com/k6HYJjqD/Di-maria.webp",
       "flag": "https://i.ibb.co.com/9mPqfpNn/argentina.png"
@@ -259,7 +259,7 @@
       "club": "Chelsea",
       "position": "Midfielder",
       "footed": "Left",
-      "price": 80000000,
+      "price": 80000,
       "img": "https://i.ibb.co.com/LDp0jbPt/930f0a80-1e78-11ef-8d9e-91a964033e92.jpg",
       "avatar": "https://i.ibb.co.com/LDp0jbPt/930f0a80-1e78-11ef-8d9e-91a964033e92.jpg",
       "flag": "https://i.ibb.co.com/7tZgzxyq/england.png"
@@ -271,7 +271,7 @@
       "club": "Bayern Munich",
       "position": "Midfielder",
       "footed": "Right",
-      "price": 120000000,
+      "price": 120000,
       "img": "https://i.ibb.co.com/0yD1hchD/Musiala.webp",
       "avatar": "https://i.ibb.co.com/0yD1hchD/Musiala.webp",
       "flag": "https://i.ibb.co.com/k6VwFJDx/germany.png"
@@ -283,7 +283,7 @@
       "club": "Liverpool",
       "position": "Defender",
       "footed": "Right",
-      "price": 70000000,
+      "price": 70000,
       "img": "https://i.ibb.co.com/p6CNcjKb/0-Getty-Images-2197467682.jpg",
       "avatar": "https://i.ibb.co.com/p6CNcjKb/0-Getty-Images-2197467682.jpg",
       "flag": "https://i.ibb.co.com/tps7hFL1/netherlands.png"
@@ -295,7 +295,7 @@
       "club": "Barcelona",
       "position": "Forward",
       "footed": "Left",
-      "price": 90000000,
+      "price": 90000,
       "img": "https://i.ibb.co.com/GQz30zBw/Lamine-Yamal-celebrates-after-scoring-agisnts-Real-Madrid.jpg",
       "avatar": "https://i.ibb.co.com/GQz30zBw/Lamine-Yamal-celebrates-after-scoring-agisnts-Real-Madrid.jpg",
       "flag": "https://i.ibb.co.com/Vc4fLYZy/Spain.png"
@@ -307,7 +307,7 @@
       "club": "Barcelona",
       "position": "Midfielder",
       "footed": "Right",
-      "price": 110000000,
+      "price": 110000,
       "img": "https://i.ibb.co.com/whTzK7L9/download.webp",
       "avatar": "https://i.ibb.co.com/whTzK7L9/download.webp",
       "flag": "https://i.ibb.co.com/Vc4fLYZy/Spain.png"
@@ -319,7 +319,7 @@
       "club": "Chelsea",
       "position": "Midfielder",
       "footed": "Right",
-      "price": 95000000,
+      "price": 95000,
       "img": "https://i.ibb.co.com/C5LG2KDL/Getty-Images-2188900347.jpg",
       "avatar": "https://i.ibb.co.com/C5LG2KDL/Getty-Images-2188900347.jpg",
       "flag": "https://i.ibb.co.com/9mPqfpNn/argentina.png"
@@ -331,7 +331,7 @@
       "club": "Manchester City",
       "position": "Defender",
       "footed": "Right",
-      "price": 90000000,
+      "price": 90000,
       "img": "https://i.ibb.co.com/GQdNLfDW/Ruben-0.jpg",
       "avatar": "https://i.ibb.co.com/GQdNLfDW/Ruben-0.jpg",
       "flag": "https://i.ibb.co.com/C5W365rS/flag.png"
@@ -343,7 +343,7 @@
       "club": "Bayern Munich",
       "position": "Midfielder",
       "footed": "Right",
-      "price": 80000000,
+      "price": 80000,
       "img": "https://i.ibb.co.com/ycLk9MT6/2190903428-0.jpg",
       "avatar": "https://i.ibb.co.com/ycLk9MT6/2190903428-0.jpg",
       "flag": "https://i.ibb.co.com/k6VwFJDx/germany.png"
@@ -355,7 +355,7 @@
       "club": "Aston Villa",
       "position": "Goalkeeper",
       "footed": "Right",
-      "price": 60000000,
+      "price": 60000,
       "img": "https://i.ibb.co.com/XrJTfsyx/emiliano-martinez-1684423652-107353.jpg",
       "avatar": "https://i.ibb.co.com/XrJTfsyx/emiliano-martinez-1684423652-107353.jpg",
       "flag": "https://i.ibb.co.com/9mPqfpNn/argentina.png"
